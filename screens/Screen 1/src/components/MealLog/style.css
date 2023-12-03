@@ -1,0 +1,94 @@
+.meal-log {
+  background: linear-gradient(180deg, rgba(247, 222, 193, 0.6) 0%, rgba(245.97, 227.29, 47.28, 0.6) 100%);
+  border-radius: 8px;
+  height: 71px;
+  position: relative;
+  width: 320px;
+}
+
+.meal-log .text-wrapper {
+  color: #333333;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 44px;
+  white-space: nowrap;
+  width: 130px;
+}
+
+.meal-log .element {
+  color: #454545;
+  font-family: "Poppins", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 17px;
+  width: 96px;
+}
+
+.meal-log .span {
+  color: #454545;
+  font-family: "Poppins", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.meal-log .text-wrapper-2 {
+  font-size: 16px;
+}
+
+.meal-log .overlap {
+  height: 42px;
+  left: 241px;
+  position: absolute;
+  top: 13px;
+  width: 64px;
+}
+
+.meal-log .ellipse {
+  height: 42px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 44px;
+}
+
+.meal-log .group {
+  height: 40px;
+  left: 20px;
+  position: absolute;
+  top: 1px;
+  width: 44px;
+}
+
+.meal-log .overlap-group {
+  background-color: #ffc883;
+  border-radius: 21.04px/19.99px;
+  height: 40px;
+  position: relative;
+  width: 42px;
+}
+
+.meal-log .div {
+  color: #ffffff;
+  font-family: "Quicksand", Helvetica;
+  font-size: 40px;
+  font-weight: 500;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+  width: 20px;
+}

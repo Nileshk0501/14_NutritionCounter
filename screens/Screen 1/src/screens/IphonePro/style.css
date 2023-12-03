@@ -1,0 +1,328 @@
+.iphone-pro {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.iphone-pro .div-2 {
+  background-color: #ffffff;
+  height: 844px;
+  overflow: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.iphone-pro .rectangle {
+  height: 266px;
+  left: 1197px;
+  position: absolute;
+  top: 1110px;
+  width: 320px;
+}
+
+.iphone-pro .uil-setting {
+  height: 24px;
+  left: 346px;
+  position: absolute;
+  top: 82px;
+  width: 24px;
+}
+
+.iphone-pro .frame {
+  height: 155px;
+  left: 20px;
+  position: absolute;
+  top: 438px;
+  width: 349px;
+}
+
+.iphone-pro .img {
+  height: 140px;
+  left: 244px;
+  position: absolute;
+  top: 15px;
+  width: 109px;
+}
+
+.iphone-pro .group-2 {
+  height: 140px;
+  left: -4px;
+  position: absolute;
+  top: 15px;
+  width: 109px;
+}
+
+.iphone-pro .group-3 {
+  height: 163px;
+  left: 111px;
+  position: absolute;
+  top: 0;
+  width: 126px;
+}
+
+.iphone-pro .text-wrapper-3 {
+  color: #454545;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 600;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 627px;
+  width: 189px;
+}
+
+.iphone-pro .meal-log-instance {
+  height: 77px !important;
+  left: 20px !important;
+  position: absolute !important;
+  top: 666px !important;
+  width: 349px !important;
+}
+
+.iphone-pro .design-component-instance-node {
+  left: 26px !important;
+  top: 48px !important;
+  width: 142px !important;
+}
+
+.iphone-pro .meal-log-2 {
+  left: 23px !important;
+  top: 19px !important;
+  width: 105px !important;
+}
+
+.iphone-pro .meal-log-3 {
+  height: 45px !important;
+  left: 263px !important;
+  top: 14px !important;
+  width: 70px !important;
+}
+
+.iphone-pro .meal-log-4 {
+  height: 45px !important;
+  width: 48px !important;
+}
+
+.iphone-pro .meal-log-5 {
+  height: 43px !important;
+  left: 22px !important;
+  width: 48px !important;
+}
+
+.iphone-pro .meal-log-6 {
+  border-radius: 22.94px/21.68px !important;
+  height: 43px !important;
+  width: 46px !important;
+}
+
+.iphone-pro .meal-log-7 {
+  left: 11px !important;
+  width: 22px !important;
+}
+
+.iphone-pro .overlap-wrapper {
+  height: 275px;
+  left: 20px;
+  position: absolute;
+  top: 142px;
+  width: 370px;
+}
+
+.iphone-pro .overlap-2 {
+  height: 275px;
+  position: relative;
+}
+
+.iphone-pro .rectangle-2 {
+  background: linear-gradient(180deg, rgb(194, 220, 252) 0%, rgb(126.07, 236.75, 240.12) 100%);
+  border-radius: 18px;
+  height: 265px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 349px;
+}
+
+.iphone-pro .overlap-group-wrapper {
+  box-shadow: 0px 4px 4px #0000000a;
+  height: 57px;
+  left: 20px;
+  position: absolute;
+  top: 37px;
+  width: 298px;
+}
+
+.iphone-pro .overlap-group-2 {
+  height: 57px;
+  position: relative;
+  width: 294px;
+}
+
+.iphone-pro .p {
+  color: #454545;
+  font-family: "Poppins", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 292px;
+}
+
+.iphone-pro .the-label-and-know {
+  color: #454545;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 34px;
+  width: 292px;
+}
+
+.iphone-pro .text-wrapper-4 {
+  font-weight: 700;
+}
+
+.iphone-pro .text-wrapper-5 {
+  color: #454545;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.iphone-pro .untitled-design {
+  height: 188px;
+  left: 126px;
+  object-fit: cover;
+  position: absolute;
+  top: 87px;
+  width: 244px;
+}
+
+.iphone-pro .frame-2 {
+  align-items: center;
+  display: inline-flex;
+  gap: 2px;
+  left: 20px;
+  position: absolute;
+  top: 109px;
+}
+
+.iphone-pro .fluent-scan-dash {
+  align-items: center;
+  background-color: #f29f2c;
+  border-radius: 4px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  overflow: hidden;
+  padding: 4px 8px;
+  position: relative;
+}
+
+.iphone-pro .text-wrapper-6 {
+  color: #454545;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  height: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: 98px;
+}
+
+.iphone-pro .material-symbols {
+  height: 33px;
+  position: relative;
+  width: 33px;
+}
+
+.iphone-pro .frame-3 {
+  align-items: center;
+  background-color: #ffffff;
+  box-shadow: 2px -4px 4px #00000014;
+  display: inline-flex;
+  gap: 118px;
+  height: 54px;
+  justify-content: center;
+  left: 1px;
+  padding: 12px 41px;
+  position: fixed;
+  top: 791px;
+}
+
+.iphone-pro .img-2 {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.iphone-pro .status-bar {
+  height: 44px;
+  left: 7px;
+  position: fixed;
+  top: 0;
+  width: 375px;
+}
+
+.iphone-pro .overlap-3 {
+  height: 33px;
+  position: relative;
+}
+
+.iphone-pro .notch {
+  height: 30px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.iphone-pro .status-icons {
+  align-items: center;
+  display: inline-flex;
+  gap: 4px;
+  left: 292px;
+  position: absolute;
+  top: 16px;
+}
+
+.iphone-pro .network-signal-light {
+  height: 14px !important;
+  position: relative !important;
+  width: 20px !important;
+}
+
+.iphone-pro .wifi-signal-light {
+  height: 14px !important;
+  position: relative !important;
+  width: 16px !important;
+}
+
+.iphone-pro .battery-light {
+  height: 14px !important;
+  position: relative !important;
+  width: 25px !important;
+}
+
+.iphone-pro .time-light {
+  height: 21px !important;
+  left: 21px !important;
+  position: absolute !important;
+  top: 12px !important;
+  width: 54px !important;
+}

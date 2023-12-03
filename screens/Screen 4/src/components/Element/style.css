@@ -1,0 +1,18 @@
+.element {
+  height: 24px;
+  position: relative;
+  width: 103px;
+}
+
+.element .element-gm {
+  color: #9d9d9d;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  width: 103px;
+}
